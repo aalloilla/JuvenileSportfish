@@ -1,0 +1,15 @@
+    <dataVariable>
+        <sourceName>_VARNAME_</sourceName>
+        <destinationName>_VARNAME_</destinationName>
+        <dataType>String</dataType>
+        <!-- sourceAttributes>
+        </sourceAttributes -->
+        <addAttributes>
+            <att name="standard_name">_VARNAME_</att>
+            <att name="long_name">_VARNAME_</att>
+            <att name="description"></att>
+            <att name="description">_DESCR_</att>
+            <att name="ioos_category">Other</att>
+            <att name="units"></att>
+        </addAttributes>
+    </dataVariable>

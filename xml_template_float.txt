@@ -1,0 +1,17 @@
+    <dataVariable>
+        <sourceName>_VARNAME_</sourceName>
+        <destinationName>_DESTNAME_</destinationName>
+        <dataType>float</dataType>
+        <!-- sourceAttributes>
+        </sourceAttributes -->
+        <addAttributes>
+            <att name="standard_name">_DESTNAME_</att>
+            <att name="standard_name_url">http://mmisw.org/ont/cf/parameter/_DESTNAME_</att>
+            <att name="long_name">_DESTNAME_</att>
+            <att name="_FillValue" type="float">-9999.0</att>
+            <att name="missing_value" type="float">-9999.0</att>
+            <att name="description">_DESCR_</att>
+            <att name="ioos_category">_CATEGORY_</att>
+            <att name="units">_UNITS_</att>
+        </addAttributes>
+    </dataVariable>
