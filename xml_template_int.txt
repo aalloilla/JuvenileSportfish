@@ -9,7 +9,6 @@
             <att name="long_name">_VARNAME_</att>
             <att name="_FillValue" type="int">-9999</att>
             <att name="missing_value" type="int">-9999</att>
-            <att name="description"></att>
             <att name="description">_DESCR_</att>
             <att name="ioos_category">Identifier</att>
             <att name="units"></att>
