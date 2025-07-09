@@ -121,12 +121,10 @@
             <att name="axis">T</att>
             <att name="calendar">gregorian</att>
             <att name="coverage_content_type">time</att>
-            <att name="long_name">Date</att>
-            <att name="source_name">Date</att>
+            <att name="long_name">Time</att>
             <att name="standard_name">time</att>
             <att name="standard_name_url">https://mmisw.org/ont/ioos/parameter/time</att>
-            <att name="time_precision">1970-01-01</att>
-            <att name="units">yyyy-MM-dd'T'HH:mmZ</att>
+            <att name="units">yyyy-MM-dd'T'HH:mm:ssZ</att>
             <att name="ioos_category">Time</att>
         </addAttributes>
     </dataVariable>
